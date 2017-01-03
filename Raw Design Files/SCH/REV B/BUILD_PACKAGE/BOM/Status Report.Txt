@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:43:38 PM On 1/5/2014
+
+Output: Assembly BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [CHEM_CONTROL_BOX.PrjPcb]
+   Generated File[BOM---CHEM_BOX_b_.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:44:08 PM On 1/5/2014
